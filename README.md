@@ -95,5 +95,3 @@ Ce repository contient **~470KB de documentation** couvrant :
 - **Cloud-first** avec optimisation des coûts
 
 ---
-
-*Documentation technique complète démontrant des compétences en architecture logicielle, développement full-stack et conception de systèmes complexes.*
